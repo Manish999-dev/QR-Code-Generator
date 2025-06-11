@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^12.6.3",
+    "qr-image": "^3.2.0"
+  },
+  "name": "c",
+  "version": "1.0.0",
+  "description": "creating a qr code project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Kumar Dangal Magar",
+  "license": "ISC"
+}
